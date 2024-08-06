@@ -16,11 +16,11 @@ Use the provided SQL script to set up your database.
 #### 2. Update Database Configuration:
 In _DatabaseHandler.java_, update the url, username, and password fields:
 
-_private static final String url = "jdbc:your_database_url";
+_private static final String url = "jdbc:your_database_url";_
 
-private static final String username = "your_database_username";
+_private static final String username = "your_database_username";_
 
-private static final String password = "your_database_password";_
+_private static final String password = "your_database_password";_
 #### 3. Compile and Run:
 Navigate to the project root and compile:
 
