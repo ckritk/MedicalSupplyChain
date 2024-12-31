@@ -11,7 +11,7 @@ The Pharmaceutical Supply Chain Management application is designed to streamline
 - **JDK 8 or higher**
 - **Oracle Database**
 
-## Setup Instructions
+## Installation
 
 ### Database Setup
 1. **Run SQL Script:**
